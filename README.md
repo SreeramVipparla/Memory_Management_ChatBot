@@ -1,4 +1,8 @@
 # Memory Management ChatBot Project
+## Overview
+<a href="MemoryManagementChatBot"  >
+<img src="https://user-images.githubusercontent.com/86887626/134796506-da7f6a7a-e8db-46f2-b6cd-7d25f7126de0.jpg"/>
+
 
 ## Introduction
 In this project I have developed a ChatBot that outputs a dialogue where users can ask questions about some aspects of memory management in C++. After the knowledge base of the chatbot has been loaded from a text file, a knowledge graph representation is created in computer memory, where chatbot answers represent the graph nodes and user queries represent the graph edges. After a user query has been sent to the chatbot, the Levenshtein distance is used to identify the most probable answer. The code is fully functional  and uses raw pointers to represent the knowledge graph and interconnections between objects throughout this project.
