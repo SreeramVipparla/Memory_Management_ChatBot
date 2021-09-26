@@ -1,4 +1,4 @@
-# Memory Management Chatbot
+# Memory Management Chatbot Project
 
 # Introduction
 
