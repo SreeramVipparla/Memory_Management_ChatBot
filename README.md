@@ -1,7 +1,7 @@
 # Memory Management ChatBot Project
 ## Overview
 <a href="MemoryManagementChatBot"  >
-<img src="https://user-images.githubusercontent.com/86887626/134796506-da7f6a7a-e8db-46f2-b6cd-7d25f7126de0.jpg"/>
+<img src="https://user-images.githubusercontent.com/86887626/134796506-da7f6a7a-e8db-46f2-b6cd-7d25f7126de0.jpg" width="1000" height="250"/>
 
 
 ## Introduction
